@@ -16,7 +16,7 @@ Deployed the application on Vercel (frontend), Railway/Render (backend), and Mon
 
 ### Setup .env file
 
-
+-- need to give this info.
 ```js
 MONGODB_URI=...
 PORT=5001
